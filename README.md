@@ -2,7 +2,7 @@
 - 👀 I’m interested in building iOS applications.
 - 🌱 I’m currently learning Typescript, React.
 - 💞️ I’m looking to collaborate on nothing right now but in the future yes.
-- 📫 How to reach me through discord at ryan.#3418.
+- 📫 How to reach me through discord at quac#3323.
 
 <!---
 RyanPW/RyanPW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
