@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RyanPW
 - 👀 I’m interested in building iOS applications.
 - 🌱 I’m currently learning Typescript, React.
-- 💞️ I’m looking to collaborate on nothing right now but in the future yes.
+- 💞️ I’m not currently looking to collaborate on anything right now but in the future yes.
 - 📫 How to reach me through discord at R.Kingsley#4177.
 
 <!---
